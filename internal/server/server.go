@@ -9,7 +9,7 @@ import (
 
 	_ "github.com/joho/godotenv/autoload"
 
-	"collabor8/internal/database"
+	"github.com/dawitel/collabor8_backend/internal/database"
 )
 
 type Server struct {

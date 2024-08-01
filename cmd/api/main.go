@@ -1,7 +1,7 @@
 package main
 
 import (
-	"collabor8/internal/server"
+	"github.com/dawitel/collabor8_backend/internal/server"
 	"fmt"
 )
 

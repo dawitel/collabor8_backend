@@ -1,7 +1,7 @@
 package tests
 
 import (
-	"collabor8/internal/server"
+	"github.com/dawitel/collabor8_backend/internal/server"
 	"io"
 	"net/http"
 	"net/http/httptest"
